@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectOpenSea/opensea-erc1155.git"
+    "url": "git+https://github.com/waynephillips/mint-token-opensea.git"
   },
-  "author": "alex.atallah@opensea.io",
+  "author": "wayne phillips",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ProjectOpenSea/opensea-erc1155/issues"
   },
-  "homepage": "https://github.com/ProjectOpenSea/opensea-erc1155#readme",
+  "homepage": "https://github.com/waynephillips/mint-token-opensea.git#readme",
   "dependencies": {
     "@0x/subproviders": "^2.1.4",
     "multi-token-standard": "github:ProjectOpenSea/multi-token-standard",
